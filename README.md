@@ -26,6 +26,7 @@ Setiap skrip menggunakan build FFmpeg yang sesuai dengan jenis perangkat.
 2. Extract ke folder pilihan, contoh:
 ```
 E:\MASTER\ffmpeg-2025-03-31-git-35c091f4b7-full_build\bin
+
 E:\MASTER\ffmpeg-master-latest-win64-lgpl\bin
 ```
 
